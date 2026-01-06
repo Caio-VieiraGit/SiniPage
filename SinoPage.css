@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    background-color: #25344f;
+}
+.BarraCentral {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ebd5b9;
+    border-radius: 0px;
+    width: 1918px;
+    height: 40px;
+}
+
+
+.CaixaPrincipal {
+    border-radius: 5px;
+    position: absolute;
+    top: 250px;
+    left: 674px;
+    transform: translate(-50%, -50%);
+    background-color: #3c507d;
+    width: 1290px;
+    height: 350px;
+}
+
+
+.Sugestoes1 {
+    border-radius: 5px;
+    position: absolute;
+    top: 200px;
+    left: 1625px;
+    transform: translate(-50%, -50%);
+    background-color: #3c507d;
+    width: 550px;
+    height: 150px;
+}
+
+
+.Sugestoes2 {
+     border-radius: 5px;
+    position: absolute;
+    top: 365px;
+    left: 1625px;
+    transform: translate(-50%, -50%);
+    background-color: #3c507d;
+    width: 550px;
+    height: 150px;
+}
+
+.Sugestoes3 {
+    border-radius: 5px;
+    position: absolute;
+    top: 530px;
+    left: 1625px;
+    transform: translate(-50%, -50%);
+    background-color: #3c507d;
+    width: 550px;
+    height: 150px;
+}
+.Sugestoes4 {
+    border-radius: 5px;
+    position: absolute;
+    top: 695px;
+    left: 1625px;
+    transform: translate(-50%, -50%);
+    background-color: #3c507d;
+    width: 550px;
+    height: 150px;
+}
+.Sugestoes5 {
+    border-radius: 5px;
+    position: absolute;
+    top: 860px;
+    left: 1625px;
+    transform: translate(-50%, -50%);
+    background-color: #3c507d;
+    width: 550px;
+    height: 150px;
+}
+
+
+.linha {
+    position: absolute;
+    top: 58%;
+    left: 69.95%;
+    transform: translate(-50%, -50%);
+    background-color: #ebd5b9;
+    border-radius: 5px;
+    width: 2px;
+    height: 920px;
+}
+
+.texto1 {
+    position: absolute;
+    color: #ebd5b9;
+    top: 60px;
+    left: 1348px;
+    font-family: 'Calibri';
+    font-size: 25px;
+}
+.texto2 {
+    position: absolute;
+    color: #ebd5b9;
+    top: 425px;
+    left: 34px;
+    font-family: 'Calibri';
+    font-size: 25px;
+}
+
+.Populares1 {
+    border-radius: 5px;
+    position: absolute;
+    top: 500px;
+    left: 34px;
+    background-color: #ebd5b9;
+    width: 200px;
+    height: 300px;
+}
+.Populares2 {
+    border-radius: 5px;
+    position: absolute;
+    top: 500px;
+    left: 260px;
+    background-color: #ebd5b9;
+    width: 200px;
+    height: 300px;
+}
+.Populares3 {
+    border-radius: 5px;
+    position: absolute;
+    top: 500px;
+    left: 486px;
+    background-color: #ebd5b9;
+    width: 200px;
+    height: 300px;
+}
+.Populares4 {
+    border-radius: 5px;
+    position: absolute;
+    top: 500px;
+    left: 712px;
+    background-color: #ebd5b9;
+    width: 200px;
+    height: 300px;
+}
+.Populares5 {
+    border-radius: 5px;
+    position: absolute;
+    top: 500px;
+    left: 938px;
+    background-color: #ebd5b9;
+    width: 200px;
+    height: 300px;
+}
